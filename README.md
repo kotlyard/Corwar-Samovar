@@ -2,11 +2,6 @@
 
 Corewar is a School 42 project. The purpose of this project is an implementation of the programming game **“Core War”**.
 
-![Corewar](/wiki_resources/corewar.svg)
-
-[corewar.en.pdf](/corewar.en.pdf) is the task file.
-
-Task resources is placed at [the `task_resources` folder](/task_resources/).
 
 ## Wiki
 
@@ -20,13 +15,11 @@ This project consists of five parts:
 
 * Champion
 * Assembler
-* Disassembler (Bonus)
 * Virtual Machine
 * Visualizer (Bonus)
 
-Project has three developed champions: `amedvedi.s`, `wasp.s`, `kalle.s`. They are located at [the `champions` directory](/champions/).
 
-Assembler + Disassembler are modules of the program `asm`.
+Assembler is modules of the program `asm`.
 
 Virtual Machine + Visualizer are modules of the program `corewar`.
 
@@ -79,4 +72,3 @@ Usage: ./corewar [-a (-dump|-d) <num> (-shed|-s) <num> -l <num>] [-v] [-n <num>]
 
 The best visualizer performance is with **iTerm2**.
 
-![Visualizer](/wiki_resources/visualizer.png)

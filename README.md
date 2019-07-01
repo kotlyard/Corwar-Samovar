@@ -7,7 +7,6 @@ Corewar is a School 42 project. The purpose of this project is an implementation
 
 This project has an 8-page guide. The guide was written **in Russian**.
 
-You can read it [at the wiki-pages](../../wiki/).
 
 ## Project Structure
 
